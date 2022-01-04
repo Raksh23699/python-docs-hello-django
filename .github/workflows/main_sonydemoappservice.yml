@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SonyDemoappservice'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F825F11B6F1140A8B1EF5F53EC58298B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C367D72BFA95436A88A34F71F5F18B49 }}
